@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawned Object
+  - Product Information
+  - VRUIBackground
+  - VRUIButtonControlBar
+  - VRUIButton
+  - VRUIText
+  - VRUIAccent
+  - VRUIButtonIcon
+  - VRUIIcon
+  - VRUIRadio
+  - VRUIOutline
+  - VRUIButtonList
+  - VRUIButtonTab
+  - VRUICheckbox
+  - VRUIToggle
+  - VRUISlider
+  - Main Menu Item
+  - Color
+  - Food
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MainMenuIUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
