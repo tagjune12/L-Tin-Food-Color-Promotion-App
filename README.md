@@ -14,7 +14,8 @@
    * 메인메뉴
     스마트폰 화면을 좌우로 슬라이드하면 메뉴를 변경할 수 있습니다.
    
-    ![그림7](https://user-images.githubusercontent.com/54172578/134366036-9cbc2a38-3eb0-4533-bd2f-81ace22014ca.png)
+   ![그림7](https://user-images.githubusercontent.com/54172578/134366036-9cbc2a38-3eb0-4533-bd2f-81ace22014ca.png)
+    
    * 제품정보
     해당 제품의 장점, 사용량, 색상 등의 정보를 볼 수 있습니다.
     양옆의 세모버튼을 눌러 이전에 나온 정보, 다음 정보를 볼 수 있습니다.
@@ -25,14 +26,15 @@
    
    ![그림4 (1)](https://user-images.githubusercontent.com/54172578/134367135-dbef5602-ad9e-4d42-ba34-2d0b349b5f0c.png)
    * 미니게임
-    1. 드롭다운 메뉴에서 색소, 그릇, 음식 중 새로 생성하고 싶은것을 선택하고 인식된 평면을 터치합니다.
+   
+   1. 드롭다운 메뉴에서 색소, 그릇, 음식 중 새로 생성하고 싶은것을 선택하고 인식된 평면을 터치합니다.
     
-    ![그림2](https://user-images.githubusercontent.com/54172578/134366019-98ff44de-17d4-408c-88fe-fdd2f8e88711.png)
+   ![그림2](https://user-images.githubusercontent.com/54172578/134366019-98ff44de-17d4-408c-88fe-fdd2f8e88711.png)
    
-    2. 색소, 음식, 그릇을 한곳에 모으면 색이 바뀐 음식이 새로 생깁니다!
+   2. 색소, 음식, 그릇을 한곳에 모으면 색이 바뀐 음식이 새로 생깁니다!
    
-    ![그림3 (2)](https://user-images.githubusercontent.com/54172578/134367409-ab9c4590-16ce-44a0-a77f-1a052100513e.png)
-    ![그림1](https://user-images.githubusercontent.com/54172578/134365360-e70376b2-62bc-4b23-b8d6-d5c81a1eef0f.png)
-  * 작동방법
+   ![그림3 (2)](https://user-images.githubusercontent.com/54172578/134367409-ab9c4590-16ce-44a0-a77f-1a052100513e.png)
+   ![그림1](https://user-images.githubusercontent.com/54172578/134365360-e70376b2-62bc-4b23-b8d6-d5c81a1eef0f.png)
+    
  
  
