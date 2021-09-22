@@ -9,29 +9,29 @@
    * 이미지 인식
    1. 앱을 실행한다.
    2. 아래와 같은 화면이 나오면 십자가와 사각형 틀 안에 제품박스의 윗면이 안에 들어가게 스마트폰을 조정한다
-   ![이미지인식1](https://user-images.githubusercontent.com/54172578/133964956-abaa3b63-62bb-4825-acf8-612e7f130db9.png) 
+   ![그림8](https://user-images.githubusercontent.com/54172578/134366039-fa05872f-dc7d-4de6-a443-b083aec8ab45.png) 
    * 메인메뉴
    스마트폰 화면을 좌우로 슬라이드하면 메뉴를 변경할 수 있습니다.
    
-   ![메인메뉴](https://user-images.githubusercontent.com/54172578/133965118-7371cb34-65b6-4be4-b64c-1b00ce586b9b.png)
+   ![그림7](https://user-images.githubusercontent.com/54172578/134366036-9cbc2a38-3eb0-4533-bd2f-81ace22014ca.png)
    * 제품정보
    해당 제품의 장점, 사용량, 색상 등의 정보를 볼 수 있습니다.
    양옆의 세모버튼을 눌러 이전에 나온 정보, 다음 정보를 볼 수 있습니다.
    
-   ![제품설명](https://user-images.githubusercontent.com/54172578/133965195-c49368b7-7423-4cbf-b088-78c6646ff8d8.png)
+   ![그림5](https://user-images.githubusercontent.com/54172578/134366030-e39b8a10-5ccc-4e44-809c-339fe3ea223a.png)
    * 제품사용예시
    동영상 리스트에서 보고 싶은 제품 사용예시 영상을 시청할 수 있습니다.
    
-   ![제품사용예시](https://user-images.githubusercontent.com/54172578/133965245-7bc0bbf9-99e6-4d16-8729-1ef1bda10dd2.png)
+   ![그림4 (1)](https://user-images.githubusercontent.com/54172578/134367135-dbef5602-ad9e-4d42-ba34-2d0b349b5f0c.png)
    * 미니게임
    1. 드롭다운 메뉴에서 색소, 그릇, 음식 중 새로 생성하고 싶은것을 선택하고 인식된 평면을 터치합니다.
     
-   ![드롭다운메뉴](https://user-images.githubusercontent.com/54172578/133965323-307309f1-eba3-4c39-bf4a-d39772fa235a.png)
+   ![그림2](https://user-images.githubusercontent.com/54172578/134366019-98ff44de-17d4-408c-88fe-fdd2f8e88711.png)
    
    2. 색소, 음식, 그릇을 한곳에 모으면 색이 바뀐 음식이 새로 생깁니다!
    
-   ![미니게임1](https://user-images.githubusercontent.com/54172578/133965295-3f01f1af-433d-4f57-9bcd-ff6604c207d0.png)
-   ![미니게임2](https://user-images.githubusercontent.com/54172578/133965304-eed9d98f-c595-4a89-8a75-adc1a876eb2f.png)
+   ![그림3 (2)](https://user-images.githubusercontent.com/54172578/134367409-ab9c4590-16ce-44a0-a77f-1a052100513e.png)
+   ![그림1](https://user-images.githubusercontent.com/54172578/134365360-e70376b2-62bc-4b23-b8d6-d5c81a1eef0f.png)
   * 작동방법
  
  
